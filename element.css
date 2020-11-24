@@ -1,0 +1,21 @@
+.banner{
+    background: #002E2C;
+    margin-left: 0%;
+}
+.rodape{
+    font-family: calibri;
+    font-size: 20pt;
+    background-color: #002E2C;
+}
+.fotofundo{
+    border: 8px solid white;
+    box-shadow: 1px 1px 4px black;
+    
+
+}
+*{
+    /* cor de fundo */
+            background-color: #3E92CC;
+            
+
+}
