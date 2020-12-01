@@ -5,11 +5,25 @@
 .rodape{
     font-family: calibri;
     font-size: 20pt;
-    background-color: #002E2C;
+    background-color: darkblue;
+    color: white;
+    margin-right: 1000px;
 }
 .fotofundo{
     border: 8px solid white;
     box-shadow: 1px 1px 4px black;
+    margin-left: 0%;
+    border-right: 100px;
+    width: 35%;
     
+    
+
+}
+.pic2{
+    border: 8px solid white;
+    box-shadow: 1px 1px 4px black;
+    margin-left: 0%;
+    border-right: 100px;
+    width: 35%;
 
 }
